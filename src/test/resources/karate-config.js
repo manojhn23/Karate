@@ -1,6 +1,8 @@
 function fun(){
     var config = {
-        host : "",
+    host : "https://reqres.in/api",
+    id : "2",
+    invalidID : "23"
     }
     return config;
 }
